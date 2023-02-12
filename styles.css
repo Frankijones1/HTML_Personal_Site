@@ -1,15 +1,17 @@
 
 h1 {
     width: auto;
-    font-size: 400%;
+    font-size: 450%;
     margin: 0 auto 0 auto;
     font-family: 'Sacramento', cursive;
-    font-size: auto; 
-
 }
 
 h2{
     font-size: 2.5rem;
+}
+
+h3{
+    font-size: 200%;
 }
 
 body{
@@ -57,6 +59,11 @@ div{
     
     margin: 0;
     width: 100%;
+}
+
+.programmer{
+    margin-top:0%
+
 }
 
 .special{
