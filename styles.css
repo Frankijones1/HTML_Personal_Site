@@ -20,12 +20,12 @@ body{
     text-align: center;
     font-size: 100%;
     margin: auto;
+    position: relative;
 }
 
 .div-top{
     height: 50px;
     position: relative;    
-    left: 20%;
     top: 0px;
 
 }
