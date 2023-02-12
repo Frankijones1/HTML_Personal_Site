@@ -34,15 +34,7 @@ font-size: 30px;
     font-size: 22px
   }
 
-  img{
-    background-color: brown;
-    height: 100px;    
-  }
-
   /* PSEUDO CLASSES */
-  img:hover{
-    background-color: gold;
-  }
 h1:hover{
  color: gold;
 }
