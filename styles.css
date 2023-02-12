@@ -11,7 +11,7 @@ h2{
 }
 
 h3{
-    font-size: 200%;
+    font-size: 2.5rem;
 }
 
 body{
@@ -19,6 +19,7 @@ body{
     background-color: #d3f2ea;
     text-align: center;
     font-size: 100%;
+    margin: auto;
 }
 
 .div-top{
